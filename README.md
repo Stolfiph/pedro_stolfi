@@ -10,6 +10,6 @@ Oii eu seou o Pedro Stolfi
   
  <div>
     <a href="https://github.com/Stolfiph/pedro_stolfi">
-   
+    <img aling = "center" alt = "Pedro-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python-original .svg" >
  </div>
  
